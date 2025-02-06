@@ -1,0 +1,4 @@
+@EndUserText.label: 'SERVICE DEFINITION DPE CVB'
+define service ZSD_ZCDS_ZPACIENTE_DPE_CVB {
+  expose ZCDS_ZPACIENTES_DPE_CVB;
+}
